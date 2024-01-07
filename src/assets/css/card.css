@@ -1,0 +1,18 @@
+
+.book-card {
+    width: 350px; 
+    height: 650px; 
+  }
+
+  .book-card-image {
+    max-width: 280px;
+    max-height:300px;
+    object-fit: cover; 
+  }  
+ .book-card-image {
+    max-width: 100%;
+    max-height: 60%;
+    object-fit: cover; 
+  }
+
+ 

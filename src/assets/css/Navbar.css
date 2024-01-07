@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #433ccd; /* Set your desired background color */
+    color: white; /* Set your desired text color */
+    padding: 10px 0; 
+  }
+  
+  .navbar a {
+    color: white; /* Set link text color */
+    margin: 0 10px; /* Add spacing between links */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .btn-custom-primary {
+    background-color: #433ccd;
+    border-color: #433ccd;
+    color: #fff; /* Text color is set to white */
+  }
